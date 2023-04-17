@@ -1,0 +1,7 @@
+echo "# Practica5_RubLRR" >> README.md
+git init
+git add README.md
+git commit "first commit"
+git branch - main
+git remote add origin https://github.com/R0BL32001/Practica5_RubLRR.git
+git push u origin main
